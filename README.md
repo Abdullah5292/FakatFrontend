@@ -1,2 +1,3 @@
 FakatBackend
-Backend development for Fakat Mern Stack used
+
+Frontend development for Fakat Mern Stack used
